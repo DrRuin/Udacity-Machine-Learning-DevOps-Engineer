@@ -48,6 +48,14 @@ python3 churn_library.py
 python3 churn_script_logging_and_tests.py
 ```
 
+#### Running Pytest On `churn_script_logging_and_tests.py` Unit File:
+
+To run tests for the `churn_script_logging_and_tests.py` script, use `pytest`:
+
+```bash
+pytest churn_script_logging_and_tests.py
+```
+
 ### 🛠️ Code Quality and Formatting
 
 #### Using Pylint for Code Quality:
@@ -68,7 +76,7 @@ autopep8 --in-place --aggressive --aggressive churn_library.py
 autopep8 --in-place --aggressive --aggressive churn_script_logging_and_tests.py
 ```
 
-## 💯 Pylint Score
+## ✅ Pylint Score
 
 The code quality has been checked using `pylint` v2.7.4 as mentioned in `requirements.txt`.
 
