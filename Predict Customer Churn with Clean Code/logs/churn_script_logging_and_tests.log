@@ -1,0 +1,16 @@
+2023-08-25 09:41:05,361 Raw dataframe fixture creation: SUCCESS
+2023-08-25 09:41:05,362 Testing import_data: SUCCESS
+2023-08-25 09:41:07,915 Testing perform_eda: SUCCESS
+2023-08-25 09:41:07,916 Testing perform_eda: SUCCESS
+2023-08-25 09:41:07,916 Testing perform_eda: SUCCESS
+2023-08-25 09:41:07,917 Testing perform_eda: SUCCESS
+2023-08-25 09:41:07,917 Testing perform_eda: SUCCESS
+2023-08-25 09:41:09,678 Encoded dataframe fixture creation: SUCCESS
+2023-08-25 09:41:09,680 Testing encoder_helper: SUCCESS
+2023-08-25 09:41:09,700 Dataframe feature engineering fixture creation: SUCCESS
+2023-08-25 09:41:09,701 Testing feature_engineering: SUCCESS
+2023-08-25 09:47:15,701 Testing testing_models: SUCCESS
+2023-08-25 09:47:15,701 Testing testing_models (report generation): SUCCESS
+2023-08-25 09:47:15,701 Testing testing_models (report generation): SUCCESS
+2023-08-25 09:47:15,702 Testing testing_models (report generation): SUCCESS
+2023-08-25 09:47:15,702 Testing testing_models (report generation): SUCCESS
